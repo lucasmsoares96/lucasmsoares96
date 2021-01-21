@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá pessoal 👋
+
+Meu nome é Lucas Martins Soares. Eu sou Técnico em Informática pelo CEFET-MG campus Divinópolis. Atualmente estou no quarto período do Curso de Engenharia de Computação no CEFET-MG campus Divinópolis.
 
 <!--
 **lucasmsoares96/lucasmsoares96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
