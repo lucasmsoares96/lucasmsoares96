@@ -48,6 +48,7 @@ Building a self-managed distributed stream processing system based on Flink
   <img height="30" src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/C.svg">&nbsp;&nbsp;
   <img height="30" src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/CMake.svg">&nbsp;&nbsp;
   <img height="30" src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/Scala.svg">&nbsp;&nbsp;
+  <img height="30" src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/Kotlin.svg">&nbsp;&nbsp;
   <img height="30" src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/Spark.svg">&nbsp;&nbsp;
   <img height="30" src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/Flink.svg">&nbsp;&nbsp;
   <img height="30" src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/Kafka.svg">&nbsp;&nbsp;
